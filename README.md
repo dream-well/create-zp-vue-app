@@ -44,4 +44,4 @@ The template project requires:
 
   For example, if your "heroku app" field is `my-awesome-app`, you need one heroku app called `my-awesome-app-dev` and one called `my-awesome-app` in your account.
   
-  Check the [**`.gitlab-ci.yml` example**](https://github.com/zero-penny-architecture/vuejs-starter-kit) for reference.
+  Check the [**`.gitlab-ci.yml` example**](https://github.com/zero-penny-architecture/vuejs-starter-kit/blob/master/.gitlab-ci.yml) for reference.

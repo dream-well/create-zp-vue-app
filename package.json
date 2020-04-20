@@ -1,6 +1,6 @@
 {
   "name": "@zeropenny/create-zp-vue-app",
-  "version": "0.0.8",
+  "version": "0.0.11",
   "description": "The Vue App creator based on the Zero Penny Architecture.",
   "keywords": [
     "zeropenny",
